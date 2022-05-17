@@ -16,8 +16,8 @@
   <a href="http://gazebosim.org/" target="_blank"> <img src="https://gazebosim.org/assets/images/gazebo_horz_pos_topbar.svg" alt="gazebo" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  
+  <!-- <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  -->
 </p>
 
 <h3 align="left">Languages:</h3>
